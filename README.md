@@ -1,2 +1,2 @@
 # fx
-Swift + Clojure Functional Programming Language
+Functional Programming Language (Swift + Clojure)
